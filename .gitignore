@@ -1,0 +1,5 @@
+/server/.env
+/server/pnpm-lock.yaml
+/server/node_modules
+/public/node_modules
+/public/pnpm-lock.yaml
